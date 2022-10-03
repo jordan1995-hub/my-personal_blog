@@ -5,8 +5,7 @@ import BodyThree from './components/BodyThree'
 import BodyTwo from './components/BodyTwo'
 import Footer from './components/Footer'
 import Header from './components/Header'
-import Paragraph from './components/Paragraph'
-import Testing from './components/Testing'
+
 
 export default function Home() {
   return (
